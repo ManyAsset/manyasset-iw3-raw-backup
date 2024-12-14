@@ -1,0 +1,10 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+h1_usp45_fire_plr,,h1/usp45/h1_usp45_fire.wav,0.9,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+h1_usp45_fire_npc,,h1/usp45/h1_usp45_fire.wav,0.8,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+
+h1_usp45_clipout,,h1/usp45/h1_usp45_clipout.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h1_usp45_clipin,,h1/usp45/h1_usp45_clipin.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+h1_usp45_chamber,,h1/usp45/h1_usp45_chamber.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+h1_usp45_lift,,h1/usp45/h1_usp45_lift.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,

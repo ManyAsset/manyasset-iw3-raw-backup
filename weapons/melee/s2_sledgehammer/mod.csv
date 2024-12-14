@@ -1,0 +1,21 @@
+//Ported By SadSlothXL
+
+xanim,s2_vm_sledgehammer_idle
+xanim,s2_vm_sledgehammer_inspect 
+xanim,s2_vm_sledgehammer_epic_inspect 
+xanim,s2_vm_sledgehammer_ads_up 
+xanim,s2_vm_sledgehammer_drop 
+xanim,s2_vm_sledgehammer_ads_down 
+xanim,s2_vm_sledgehammer_swipe 
+xanim,s2_vm_sledgehammer_stab 
+xanim,s2_vm_sledgehammer_sprint_out 
+xanim,s2_vm_sledgehammer_sprint_in 
+xanim,s2_vm_sledgehammer_sprint_loop 
+xanim,s2_vm_sledgehammer_raise 
+
+xmodel,s2_vm_sledgehammer
+xmodel,s2_vm_sledgehammer_ham_head
+xmodel,s2_vm_sledgehammer_hard_hitter
+xmodel,s2_vm_sledgehammer_skel_key
+
+weapon,mp/s2_sledgehammer_mp

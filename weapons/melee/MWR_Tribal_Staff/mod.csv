@@ -1,0 +1,19 @@
+//Ported By SadSlothXL
+
+
+xanim,h1_vm_tribal_staff_idle 
+xanim,h1_vm_tribal_staff_inspect 
+xanim,h1_vm_tribal_staff_pullout 
+xanim,h1_vm_tribal_staff_pullout_first 
+xanim,h1_vm_tribal_staff_pullout_quick 
+xanim,h1_vm_tribal_staff_putaway 
+xanim,h1_vm_tribal_staff_putaway_quick 
+xanim,h1_vm_tribal_staff_sprint_in 
+xanim,h1_vm_tribal_staff_sprint_loop 
+xanim,h1_vm_tribal_staff_sprint_out 
+xanim,h1_vm_tribal_staff_stab 
+xanim,h1_vm_tribal_staff_swipe 
+
+xmodel,h1_vm_tribal_staff
+
+weapon,mp/h1_tribal_staff_mp

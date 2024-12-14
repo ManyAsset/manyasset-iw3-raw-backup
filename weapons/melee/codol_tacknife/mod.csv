@@ -1,0 +1,15 @@
+//Ported By SadSlothXL
+
+xanim,vm_codol_tactical_knife_pullout
+xanim,vm_codol_tactical_knife_putaway
+xanim,vm_codol_tactical_knife_sprint_in
+xanim,vm_codol_tactical_knife_sprint_loop
+xanim,vm_codol_tactical_knife_sprint_out
+xanim,vm_codol_tactical_knife_stab
+xanim,vm_codol_tactical_knife_swipe
+xanim,vm_codol_tactical_knife_idle
+xanim,vm_codol_tactical_knife_inspect
+
+xmodel,vm_codol_tactical_knife
+
+weapon,mp/codol_tacknife_mp

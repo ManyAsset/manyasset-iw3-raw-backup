@@ -1,0 +1,22 @@
+//Ported By SadSlothXL
+
+xanim,vm_h1_usp45_idle
+xanim,vm_h1_usp45_lastfire
+xanim,vm_h1_usp45_pullout
+xanim,vm_h1_usp45_putaway
+xanim,vm_h1_usp45_reload
+xanim,vm_h1_usp45_reload_empty
+xanim,vm_h1_usp45_sprint_in
+xanim,vm_h1_usp45_sprint_loop
+xanim,vm_h1_usp45_sprint_out
+xanim,vm_h1_usp45_ads_down
+xanim,vm_h1_usp45_ads_fire
+xanim,vm_h1_usp45_ads_up
+xanim,vm_h1_usp45_fire
+
+xmodel,vm_h1_usp45
+xmodel,wm_h1_usp45
+
+sound,h1_usp45,,all_mp
+
+weapon,mp/h1_usp45_mp

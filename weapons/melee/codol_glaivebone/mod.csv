@@ -1,0 +1,16 @@
+//Ported By SadSlothXL
+
+xanim,vm_codol_glaive_putaway_quick
+xanim,vm_codol_glaive_putaway
+xanim,vm_codol_glaive_pullout
+xanim,vm_codol_glaive_pullout_quick
+xanim,vm_codol_glaive_idle
+xanim,vm_codol_glaive_swipe
+xanim,vm_codol_glaive_stab
+xanim,vm_codol_glaive_sprint_out
+xanim,vm_codol_glaive_sprint_loop
+xanim,vm_codol_glaive_sprint_in
+
+xmodel,vm_codol_glaivebone
+
+weapon,mp/codol_glaivebone_mp

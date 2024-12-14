@@ -1,0 +1,26 @@
+//Ported By SadSlothXL
+
+xanim,vm_t6_ballista_idle
+xanim,vm_t6_ballista_pullout
+xanim,vm_t6_ballista_pullout_quick
+xanim,vm_t6_ballista_putaway
+xanim,vm_t6_ballista_putaway_quick
+xanim,vm_t6_ballista_rechamber
+xanim,vm_t6_ballista_reload
+xanim,vm_t6_ballista_reload_empty
+xanim,vm_t6_ballista_sprint_in
+xanim,vm_t6_ballista_sprint_loop
+xanim,vm_t6_ballista_sprint_out
+xanim,vm_t6_ballista_ads_down
+xanim,vm_t6_ballista_ads_fire
+xanim,vm_t6_ballista_ads_rechamber
+xanim,vm_t6_ballista_ads_up
+xanim,vm_t6_ballista_fire
+xanim,vm_t6_ballista_first_raise
+
+xmodel,vm_t6_ballista
+xmodel,wm_t6_ballista
+
+sound,t6_ballista,,all_mp
+
+weapon,mp/t6_ballista_mp

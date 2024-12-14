@@ -1,0 +1,21 @@
+//Ported By SadSlothXL
+
+xanim,vm_h2_44magnum_putaway
+xanim,vm_h2_44magnum_reload
+xanim,vm_h2_44magnum_sprint_in
+xanim,vm_h2_44magnum_sprint_loop
+xanim,vm_h2_44magnum_sprint_out
+xanim,vm_h2_44magnum_ads_down
+xanim,vm_h2_44magnum_ads_fire
+xanim,vm_h2_44magnum_ads_up
+xanim,vm_h2_44magnum_fire
+xanim,vm_h2_44magnum_first_pullout
+xanim,vm_h2_44magnum_idle
+xanim,vm_h2_44magnum_pullout
+
+xmodel,vm_h2_44magnum
+xmodel,wm_h2_44magnum
+
+sound,h2_44magnum,,all_mp
+
+weapon,mp/h2_44magnum_mp

@@ -1,0 +1,17 @@
+//Ported By SadSlothXL
+
+xanim,vm_codol_wrench_pullout_quick
+xanim,vm_codol_wrench_putaway
+xanim,vm_codol_wrench_putaway_quick
+xanim,vm_codol_wrench_sprint_in
+xanim,vm_codol_wrench_sprint_loop
+xanim,vm_codol_wrench_sprint_out
+xanim,vm_codol_wrench_stab
+xanim,vm_codol_wrench_swipe
+xanim,vm_codol_wrench_idle
+xanim,vm_codol_wrench_inspect
+xanim,vm_codol_wrench_pullout
+
+xmodel,vm_codol_wrench
+
+weapon,mp/codol_wrench_mp

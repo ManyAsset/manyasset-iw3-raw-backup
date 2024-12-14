@@ -1,0 +1,13 @@
+/*
+______           __  _____  _____ 
+| ___ \         /  ||  _  ||  _  |
+| |_/ /_____  __`| || |/' || |_| |
+|    // _ \ \/ / | ||  /| |\____ |
+| |\ \  __/>  < _| |\ |_/ /.___/ /
+\_| \_\___/_/\_\\___/\___/ \____/ 
+
+Drag 'n Drop files inside your mod and add those lines below to your mod.csv file!
+
+*/
+
+weapon,mp/rgx_blade_mp

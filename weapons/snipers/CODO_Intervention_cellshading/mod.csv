@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_cheytac_putaway
+xanim,vm_codo_cheytac_rechamber
+xanim,vm_codo_cheytac_rechamber_ads
+xanim,vm_codo_cheytac_reload
+xanim,vm_codo_cheytac_reload_empty
+xanim,vm_codo_cheytac_sprint_in
+xanim,vm_codo_cheytac_sprint_loop
+xanim,vm_codo_cheytac_sprint_out
+xanim,vm_codo_cheytac_ads_down
+xanim,vm_codo_cheytac_ads_up
+xanim,vm_codo_cheytac_fire
+xanim,vm_codo_cheytac_idle
+xanim,vm_codo_cheytac_pullout
+xanim,vm_codo_cheytac_pullout_first
+xanim,vm_codo_cheytac_pullout_quick
+
+xmodel,vm_codo_cheytac_cellshading
+xmodel,wm_codo_cheytac_cellshading
+
+sound,codo_cheytac,,all_mp
+
+weapon,mp/codo_cheytac_cellshading_mp

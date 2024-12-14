@@ -1,0 +1,20 @@
+//Ported By SadSlothXL
+
+xanim,h1_vm_cleaver_stab 
+xanim,h1_vm_cleaver_sprint_out 
+xanim,h1_vm_cleaver_sprint_loop 
+xanim,h1_vm_cleaver_sprint_in 
+xanim,h1_vm_cleaver_putaway_quick 
+xanim,h1_vm_cleaver_putaway 
+xanim,h1_vm_cleaver_pullout_quick 
+xanim,h1_vm_cleaver_pullout_first 
+xanim,h1_vm_cleaver_pullout 
+xanim,h1_vm_cleaver_inspect 
+xanim,h1_vm_cleaver_idle_inspect 
+xanim,h1_vm_cleaver_idle 
+xanim,h1_vm_cleaver_swipe 
+
+
+xmodel,h1_vm_cleaver
+
+weapon,mp/h1_cleaver_mp

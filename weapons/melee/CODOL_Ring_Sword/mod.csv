@@ -1,0 +1,17 @@
+//Ported By SadSlothXL
+
+xanim,codol_vm_putaway_quick 
+xanim,codol_vm_sprint_in 
+xanim,codol_vm_sprint_loop 
+xanim,codol_vm_sprint_out 
+xanim,codol_vm_stab 
+xanim,codol_vm_swipe 
+xanim,codol_vm_idle 
+xanim,codol_vm_inspect 
+xanim,codol_vm_pullout 
+xanim,codol_vm_pullout_quick 
+xanim,codol_vm_putaway 
+
+xmodel,codol_vm_ringsword
+
+weapon,mp/h1_ringsword_mp

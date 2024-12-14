@@ -1,0 +1,20 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw5_mp412_fire
+xanim,vm_iw5_mp412_idle
+xanim,vm_iw5_mp412_pullout
+xanim,vm_iw5_mp412_putaway
+xanim,vm_iw5_mp412_reload
+xanim,vm_iw5_mp412_sprint_in
+xanim,vm_iw5_mp412_sprint_loop
+xanim,vm_iw5_mp412_sprint_out
+xanim,vm_iw5_mp412_ads_down
+xanim,vm_iw5_mp412_ads_fire
+xanim,vm_iw5_mp412_ads_up
+
+xmodel,vm_iw5_mp412
+xmodel,wm_iw5_mp412
+
+sound,iw5_mp412,,all_mp
+
+weapon,mp/iw5_mp412_mp

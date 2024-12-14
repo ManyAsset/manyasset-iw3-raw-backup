@@ -1,0 +1,14 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t6_ballista_fire_plr,,t6/ballista/t6_ballista_fire.wav,0.9,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+t6_ballista_fire_npc,,t6/ballista/t6_ballista_fire.wav,0.8,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+
+t6_ballista_mag_out,,t6/ballista/t6_ballista_mag_out.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t6_ballista_mag_in,,t6/ballista/t6_ballista_mag_in.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t6_ballista_boltup,,t6/ballista/t6_ballista_boltup.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t6_ballista_boltforward,,t6/ballista/t6_ballista_boltforward.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t6_ballista_boltdown,,t6/ballista/t6_ballista_boltdown.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t6_ballista_boltback,,t6/ballista/t6_ballista_boltback.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t6_ballista_pullout_01,,t6/ballista/t6_ballista_pullout_01.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t6_ballista_pullout_02,,t6/ballista/t6_ballista_pullout_02.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,

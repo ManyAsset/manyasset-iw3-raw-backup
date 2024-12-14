@@ -1,0 +1,18 @@
+//Ported By SadSlothXL
+
+xanim,h1_vm_danger_close_sprint_out
+xanim,h1_vm_danger_close_sprint_loop
+xanim,h1_vm_danger_close_putaway_quick
+xanim,h1_vm_danger_close_sprint_in
+xanim,h1_vm_danger_close_putaway
+xanim,h1_vm_danger_close_pullout_quick
+xanim,h1_vm_danger_close_pullout_first
+xanim,h1_vm_danger_close_pullout
+xanim,h1_vm_danger_close_idle
+xanim,h1_vm_danger_close_inspect
+xanim,h1_vm_danger_close_swipe
+xanim,h1_vm_danger_close_stab
+
+xmodel,h1_vm_danger_close
+
+weapon,mp/h1_danger_close_mp

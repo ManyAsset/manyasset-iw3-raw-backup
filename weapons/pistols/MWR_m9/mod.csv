@@ -1,0 +1,23 @@
+//Ported By SadSlothXL
+
+xanim,vm_h1_m9_idle
+xanim,vm_h1_m9_inspect
+xanim,vm_h1_m9_lastfire
+xanim,vm_h1_m9_pullout
+xanim,vm_h1_m9_putaway
+xanim,vm_h1_m9_reload
+xanim,vm_h1_m9_reload_empty
+xanim,vm_h1_m9_sprint_in
+xanim,vm_h1_m9_sprint_loop
+xanim,vm_h1_m9_sprint_out
+xanim,vm_h1_m9_ads_down
+xanim,vm_h1_m9_ads_fire
+xanim,vm_h1_m9_ads_up
+xanim,vm_h1_m9_fire
+
+xmodel,vm_h1_m9
+xmodel,wm_h1_m9
+
+sound,h1_m9,,all_mp
+
+weapon,mp/h1_m9_mp

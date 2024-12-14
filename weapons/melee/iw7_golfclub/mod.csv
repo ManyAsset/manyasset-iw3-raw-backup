@@ -1,0 +1,19 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw7_golf_club_drop
+xanim,vm_iw7_golf_club_drop_quick
+xanim,vm_iw7_golf_club_first_raise
+xanim,vm_iw7_golf_club_idle
+xanim,vm_iw7_golf_club_raise
+xanim,vm_iw7_golf_club_raise_quick
+xanim,vm_iw7_golf_club_sprint_in
+xanim,vm_iw7_golf_club_sprint_loop
+xanim,vm_iw7_golf_club_sprint_out
+xanim,vm_iw7_golf_club_stab
+xanim,vm_iw7_golf_club_swipe
+xanim,vm_iw7_golf_club_ads_down
+xanim,vm_iw7_golf_club_ads_up
+
+xmodel,vm_iw7_golfclub
+
+weapon,mp/iw7_golfclub_mp

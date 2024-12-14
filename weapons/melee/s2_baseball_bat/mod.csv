@@ -1,0 +1,23 @@
+//Ported By SadSlothXL
+
+xanim,s2_vm_baseball_bat_pullout_first_mint 
+xanim,s2_vm_baseball_bat_inspect 
+xanim,s2_vm_baseball_bat_idle 
+xanim,s2_vm_baseball_bat_gold_inspect 
+xanim,s2_vm_baseball_bat_epic_inspect 
+xanim,s2_vm_baseball_bat_drop 
+xanim,s2_vm_melee_ads_up 
+xanim,s2_vm_melee_ads_down 
+xanim,s2_vm_baseball_bat_swipe 
+xanim,s2_vm_baseball_bat_sprint_out 
+xanim,s2_vm_baseball_bat_sprint_loop 
+xanim,s2_vm_baseball_bat_sprint_in 
+xanim,s2_vm_baseball_bat_raise 
+xanim,s2_vm_baseball_bat_marksman_inspect 
+
+xmodel,s2_vm_baseball_bat
+xmodel,s2_vm_baseballbat_double2
+xmodel,s2_vm_baseballbat_homerun
+xmodel,s2_vm_baseballbat_triple
+
+weapon,mp/s2_baseball_bat_mp

@@ -1,0 +1,19 @@
+//Ported By SadSlothXL
+
+xanim,vm_h1_cqb_bayonet_pullout_first
+xanim,vm_h1_cqb_bayonet_pullout_quick
+xanim,vm_h1_cqb_bayonet_putaway
+xanim,vm_h1_cqb_bayonet_putaway_quick
+xanim,vm_h1_cqb_bayonet_sprint_in
+xanim,vm_h1_cqb_bayonet_sprint_loop
+xanim,vm_h1_cqb_bayonet_sprint_out
+xanim,vm_h1_cqb_bayonet_stab
+xanim,vm_h1_cqb_bayonet_swipe
+xanim,vm_h1_cqb_bayonet_idle
+xanim,vm_h1_cqb_bayonet_inspect
+xanim,vm_h1_cqb_bayonet_pullout
+
+
+xmodel,vm_h1_cqb_bayonet
+
+weapon,mp/h1_bayonet_mp

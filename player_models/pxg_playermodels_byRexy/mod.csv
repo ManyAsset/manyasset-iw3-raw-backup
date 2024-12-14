@@ -1,0 +1,22 @@
+/*
+______           __  _____  _____ 
+| ___ \         /  ||  _  ||  _  |
+| |_/ /_____  __`| || |/' || |_| |
+|    // _ \ \/ / | ||  /| |\____ |
+| |\ \  __/>  < _| |\ |_/ /.___/ /
+\_| \_\___/_/\_\\___/\___/ \____/ 
+
+Original commission for pXg | Boss#4466, published with full permission by the owner
+
+Drag 'n Drop files inside your mod and add those lines below to your mod.csv file!
+
+*/
+
+xmodel,ghost_rider
+xmodel,leon
+xmodel,boba_fett
+xmodel,darth_maul
+xmodel,goku
+xmodel,octane
+xmodel,pheonix
+xmodel,redbeard
