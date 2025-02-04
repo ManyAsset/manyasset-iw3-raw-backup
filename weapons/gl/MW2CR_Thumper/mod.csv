@@ -1,0 +1,21 @@
+//Ported By SadSlothXL
+
+xanim,h2_m79_sprint_in
+xanim,h2_m79_sprint_loop
+xanim,h2_m79_reload
+xanim,h2_m79_idle
+xanim,h2_m79_raise
+xanim,h2_m79_fire_ads
+xanim,h2_m79_first_raise
+xanim,h2_m79_drop
+xanim,h2_m79_fire
+xanim,h2_m79_ads_up
+xanim,h2_m79_ads_down
+xanim,h2_m79_sprint_out
+
+xmodel,wm_h2_m79
+xmodel,vm_h2_m79
+
+sound,h2_m79,,all_mp
+
+weapon,mp/h2_m79_mp

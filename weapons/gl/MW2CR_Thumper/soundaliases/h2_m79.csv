@@ -1,0 +1,16 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+h2_m79_fire_plr,1,h2/m79/h2_m79_fire_01.wav,0.9,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+h2_m79_fire_plr,2,h2/m79/h2_m79_fire_02.wav,0.9,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+h2_m79_fire_plr,3,h2/m79/h2_m79_fire_03.wav,0.9,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+h2_m79_fire_plr,4,h2/m79/h2_m79_fire_04.wav,0.9,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+h2_m79_fire_npc,,h2/m79/h2_m79_fire_01.wav,0.8,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+
+h2_m79_chamber,,h2/m79/h2_m79_chamber.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_m79_drop,,h2/m79/h2_m79_drop.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_m79_mag_in,,h2/m79/h2_m79_mag_in.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_m79_mag_out,,h2/m79/h2_m79_mag_out.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_m79_open,,h2/m79/h2_m79_open.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_m79_raise,,h2/m79/h2_m79_raise.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_m79_sight,,h2/m79/h2_m79_sight.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
