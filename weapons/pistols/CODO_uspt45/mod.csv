@@ -1,0 +1,22 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_uspt45_sprint_loop
+xanim,vm_codo_uspt45_reload_empty
+xanim,vm_codo_uspt45_sprint_in
+xanim,vm_codo_uspt45_reload
+xanim,vm_codo_uspt45_raise
+xanim,vm_codo_uspt45_first_raise
+xanim,vm_codo_uspt45_idle
+xanim,vm_codo_uspt45_fire_ads
+xanim,vm_codo_uspt45_drop
+xanim,vm_codo_uspt45_fire
+xanim,vm_codo_uspt45_ads_up
+xanim,vm_codo_uspt45_ads_down
+xanim,vm_codo_uspt45_sprint_out
+
+xmodel,wm_codo_uspt45
+xmodel,vm_codo_uspt45
+
+sound,codo_uspt45,,all_mp
+
+weapon,mp/codo_uspt45_mp

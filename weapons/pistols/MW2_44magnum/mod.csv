@@ -1,0 +1,20 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw4_44magnum_idle
+xanim,vm_iw4_44magnum_drop
+xanim,vm_iw4_44magnum_fire
+xanim,vm_iw4_44magnum_ads_fire
+xanim,vm_iw4_44magnum_ads_up
+xanim,vm_iw4_44magnum_ads_down
+xanim,vm_iw4_44magnum_sprint_loop
+xanim,vm_iw4_44magnum_sprint_out
+xanim,vm_iw4_44magnum_sprint_in
+xanim,vm_iw4_44magnum_raise
+xanim,vm_iw4_44magnum_reload
+
+xmodel,wm_iw4_44magnum
+xmodel,vm_iw4_44magnum
+
+sound,iw4_44magnum,,all_mp
+
+weapon,mp/iw4_44magnum_mp
