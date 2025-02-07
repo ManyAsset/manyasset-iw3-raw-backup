@@ -1,0 +1,10 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw5_l118a1_fire_plr,,iw5/l118a1/iw5_l118a1_fire_plr.wav,1,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+iw5_l118a1_fire_npc,,iw5/l118a1/iw5_l118a1_fire_npc.wav,1,1,max,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+iw5_l118a1_lift,,iw5/l118a1/iw5_l118a1_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_l118a1_mag_out,,iw5/l118a1/iw5_l118a1_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_l118a1_mag_in,,iw5/l118a1/iw5_l118a1_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_l118a1_chamber_open,,iw5/l118a1/iw5_l118a1_chamber_open.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_l118a1_chamber_close,,iw5/l118a1/iw5_l118a1_chamber_close.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
