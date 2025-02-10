@@ -1,0 +1,9 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t6_m27_fire_plr,,t6/m27/t6_m27_fire.wav,1,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+t6_m27_fire_npc,,t6/m27/t6_m27_fire.wav,1,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+t6_m27_bb,,t6/m27/t6_m27_bb.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t6_m27_bf,,t6/m27/t6_m27_bf.wav,1,1,wpnplyr,1,1,7,500,local,,,,0.85,,,,,weapon2
+t6_m27_mag_out,,t6/m27/t6_m27_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t6_m27_mag_in,,t6/m27/t6_m27_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2

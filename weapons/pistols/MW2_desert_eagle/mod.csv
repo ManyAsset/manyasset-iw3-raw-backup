@@ -1,0 +1,21 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw4_deagle_sprint_in
+xanim,vm_iw4_deagle_sprint_loop
+xanim,vm_iw4_deagle_reload
+xanim,vm_iw4_deagle_reload_empty
+xanim,vm_iw4_deagle_pullout
+xanim,vm_iw4_deagle_putaway
+xanim,vm_iw4_deagle_idle
+xanim,vm_iw4_deagle_ads_up
+xanim,vm_iw4_deagle_fire
+xanim,vm_iw4_deagle_ads_down
+xanim,vm_iw4_deagle_ads_fire
+xanim,vm_iw4_deagle_sprint_out
+
+xmodel,wm_iw4_desert_ealge
+xmodel,vm_iw4_desert_ealge
+
+sound,iw4_deagle,,all_mp
+
+weapon,mp/iw4_deagle_mp
