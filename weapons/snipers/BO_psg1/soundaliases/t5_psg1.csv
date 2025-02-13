@@ -1,0 +1,9 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t5_psg1_fire_plr,,t5/psg1/t5_psg1_fire.wav,1,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+t5_psg1_fire_npc,,t5/psg1/t5_psg1_fire.wav,1,1,max,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+t5_psg1_charge,,t5/psg1/t5_psg1_charge.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t5_psg1_futz,,t5/psg1/t5_psg1_futz.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t5_psg1_mag_in,,t5/psg1/t5_psg1_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t5_psg1_mag_out,,t5/psg1/t5_psg1_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2

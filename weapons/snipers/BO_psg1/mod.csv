@@ -1,0 +1,27 @@
+//Ported By SadSlothXL
+
+xanim,vm_t5_psg1_sprint_in
+xanim,vm_t5_psg1_sprint_loop
+xanim,vm_t5_psg1_reload
+xanim,vm_t5_psg1_reload_empty
+xanim,vm_t5_psg1_raise
+xanim,vm_t5_psg1_raise_quick
+xanim,vm_t5_psg1_first_raise
+xanim,vm_t5_psg1_idle
+xanim,vm_t5_psg1_fire
+xanim,vm_t5_psg1_fire_ads
+xanim,vm_t5_psg1_drop
+xanim,vm_t5_psg1_drop_quick
+xanim,vm_t5_psg1_ads_down
+xanim,vm_t5_psg1_ads_up
+xanim,vm_t5_psg1_sprint_out
+
+material,mtl_t5_psg1_scope_overlay
+material,hud_t5_psg1
+
+xmodel,wm_t5_psg1
+xmodel,vm_t5_psg1
+
+sound,t5_psg1,,all_mp
+
+weapon,mp/t5_psg1_mp
