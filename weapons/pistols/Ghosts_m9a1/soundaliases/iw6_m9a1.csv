@@ -1,0 +1,10 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw6_m9a1_fire_plr,,iw6/m9a1/iw6_m9a1_fire.wav,0.9,1,wpnplyr,0.95,1.05,500000,,local,,,,0.85,,,,iw6_m9a1_fire_lya,weapon2,,,,
+iw6_m9a1_fire_lya,,iw6/m9a1/iw6_m9a1_fire_lya.wav,0.45,0.52,wpnplyr,0.95,1.05,500000,,local2,,,,0.85,,,,,weapon2,,,,
+iw6_m9a1_fire_npc,,iw6/m9a1/iw6_m9a1_fire.wav,0.8,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+
+iw6_m9a1_chamber,,iw6/m9a1/iw6_m9a1_chamber.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_m9a1_mag_in,,iw6/m9a1/iw6_m9a1_mag_in.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_m9a1_mag_out,,iw6/m9a1/iw6_m9a1_mag_out.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2

@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_deagle_idle
+xanim,vm_codo_deagle_raise
+xanim,vm_codo_deagle_fire_ads
+xanim,vm_codo_deagle_first_raise
+xanim,vm_codo_deagle_drop
+xanim,vm_codo_deagle_fire
+xanim,vm_codo_deagle_ads_down
+xanim,vm_codo_deagle_ads_up
+xanim,vm_codo_deagle_sprint_out
+xanim,vm_codo_deagle_sprint_in
+xanim,vm_codo_deagle_sprint_loop
+xanim,vm_codo_deagle_reload
+xanim,vm_codo_deagle_reload_empty
+
+material,hud_codo_deagle
+
+xmodel,wm_codo_deagle
+xmodel,vm_codo_deagle
+
+sound,codo_deagle,,all_mp
+
+weapon,mp/codo_deagle_mp
