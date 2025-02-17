@@ -1,0 +1,27 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw4_intervention_rechamber_ads
+xanim,vm_iw4_intervention_reload
+xanim,vm_iw4_intervention_raise_quick
+xanim,vm_iw4_intervention_rechamber
+xanim,vm_iw4_intervention_idle
+xanim,vm_iw4_intervention_raise
+xanim,vm_iw4_intervention_fire
+xanim,vm_iw4_intervention_fire_ads
+xanim,vm_iw4_intervention_drop
+xanim,vm_iw4_intervention_drop_quick
+xanim,vm_iw4_intervention_ads_up
+xanim,vm_iw4_intervention_ads_down
+xanim,vm_iw4_intervention_sprint_loop
+xanim,vm_iw4_intervention_sprint_out
+xanim,vm_iw4_intervention_reload_empty
+xanim,vm_iw4_intervention_sprint_in
+
+material,hud_iw4_intervention
+
+xmodel,wm_iw4_intervention
+xmodel,vm_iw4_intervention
+
+sound,iw4_intervention,,all_mp
+
+weapon,mp/iw4_intervention_mp
