@@ -1,0 +1,14 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_fists_swipe
+xanim,vm_codo_fists_sprint_out
+xanim,vm_codo_fists_stab
+xanim,vm_codo_fists_sprint_in
+xanim,vm_codo_fists_sprint_loop
+xanim,vm_codo_fists_raise_quick
+xanim,vm_codo_fists_idle
+xanim,vm_codo_fists_raise
+xanim,vm_codo_fists_drop
+xanim,vm_codo_fists_drop_quick
+
+weapon,mp/codo_fists_mp
