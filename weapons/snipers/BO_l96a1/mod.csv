@@ -18,6 +18,9 @@ xanim,vm_t5_l96a1_sprint_loop
 xanim,vm_t5_l96a1_sprint_out
 xanim,vm_t5_l96a1_reload_empty
 
+material,hud_t5_l96a1
+material,mtl_t5_l96a1_scopeoverlay
+
 xmodel,wm_t5_l96a1
 xmodel,vm_t5_l96a1
 

@@ -16,6 +16,9 @@ xanim,vm_iw5_l118a1_sprint_in
 xanim,vm_iw5_l118a1_sprint_loop
 xanim,vm_iw5_l118a1_reload_empty
 
+material,hud_iw5_l118a1
+material,mtl_iw5_l118a1_scopeoverlay
+
 xmodel,wm_iw5_l118a
 xmodel,vm_iw5_l118a
 

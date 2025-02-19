@@ -19,6 +19,9 @@ xanim,vm_h1_stac_fire
 xanim,vm_h1_stac_fire_last
 xanim,vm_h1_stac_idle
 
+material,mtl_h1_stac_scope_overlay
+material,hud_h1_stac
+
 xmodel,vm_h1_stacaggressor
 xmodel,wm_h1_stacaggressor
 

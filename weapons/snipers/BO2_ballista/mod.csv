@@ -18,6 +18,9 @@ xanim,vm_t6_ballista_ads_up
 xanim,vm_t6_ballista_fire
 xanim,vm_t6_ballista_first_raise
 
+material,mtl_t6_ballista_scopoverlay
+material,hud_t6_ballista
+
 xmodel,vm_t6_ballista
 xmodel,wm_t6_ballista
 
