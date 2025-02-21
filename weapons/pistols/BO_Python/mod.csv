@@ -1,0 +1,21 @@
+//Ported By SadSlothXL
+
+xanim,vm_t5_python_sprint_loop
+xanim,vm_t5_python_raise_first
+xanim,vm_t5_python_reload
+xanim,vm_t5_python_idle
+xanim,vm_t5_python_raise
+xanim,vm_t5_python_fire
+xanim,vm_t5_python_fire_ads
+xanim,vm_t5_python_drop
+xanim,vm_t5_python_ads_down
+xanim,vm_t5_python_ads_up
+
+material,hud_t5_python
+
+xmodel,wm_t5_python
+xmodel,vm_t5_python
+
+sound,t5_python,,all_mp
+
+weapon,mp/t5_python_mp
