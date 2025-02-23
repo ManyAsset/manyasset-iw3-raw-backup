@@ -1,0 +1,15 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t5_famas_fire_plr,1,t5/famas/t5_famas_fire_00.wav,1,1,max,1,1,500000,,local,,,,0.85,,,,t5_famas_fire_ringoff,weapon2,,,,
+t5_famas_fire_plr,2,t5/famas/t5_famas_fire_01.wav,1,1,max,1,1,500000,,local,,,,0.85,,,,t5_famas_fire_ringoff,weapon2,,,,
+t5_famas_fire_plr,3,t5/famas/t5_famas_fire_02.wav,1,1,max,1,1,500000,,local,,,,0.85,,,,t5_famas_fire_ringoff,weapon2,,,,
+t5_famas_fire_plr,4,t5/famas/t5_famas_fire_03.wav,1,1,max,1,1,500000,,local,,,,0.85,,,,t5_famas_fire_ringoff,weapon2,,,,
+t5_famas_fire_plr,5,t5/famas/t5_famas_fire_04.wav,1,1,max,1,1,500000,,local,,,,0.85,,,,t5_famas_fire_ringoff,weapon2,,,,
+t5_famas_fire_ringoff,,t5/famas/t5_famas_fire_ringoff.wav,0.35,0.35,max,1,1,500000,,local2,,,,0.85,,,,,weapon2,,,,
+t5_famas_fire_npc,,t5/famas/t5_famas_fire_00.wav,0.8,0.8,max,1,1,35,7500,weapon,,,,0.7,all_mp,,,t5_famas_fire_ringoff_npc,weapon4
+t5_famas_fire_ringoff_npc,,t5/famas/t5_famas_fire_ringoff.wav,0.2,0.2,max,1,1,8500,,auto2,,,,0.7,all_mp,,,,weapon4
+
+t5_famas_charge,,t5/famas/t5_famas_charge.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t5_famas_futz,,t5/famas/t5_famas_futz.wav,1,1,wpnplyr,1,1,7,500,local,,,,0.85,,,,,weapon2
+t5_famas_mag_in,,t5/famas/t5_famas_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t5_famas_mag_out,,t5/famas/t5_famas_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
