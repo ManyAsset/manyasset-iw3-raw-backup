@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw4_raffica_reload_empty
+xanim,vm_iw4_raffica_raise
+xanim,vm_iw4_raffica_reload
+xanim,vm_iw4_raffica_fire_ads_last
+xanim,vm_iw4_raffica_idle
+xanim,vm_iw4_raffica_fire
+xanim,vm_iw4_raffica_fire_ads
+xanim,vm_iw4_raffica_ads_up
+xanim,vm_iw4_raffica_drop
+xanim,vm_iw4_raffica_ads_down
+xanim,vm_iw4_raffica_sprint_out
+xanim,vm_iw4_raffica_sprint_in
+xanim,vm_iw4_raffica_sprint_loop
+
+material,hud_iw4_raffica
+
+xmodel,wm_iw4_raffica
+xmodel,vm_iw4_raffica
+
+sound,iw4_raffica,,all_mp
+
+weapon,mp/iw4_raffica_mp
