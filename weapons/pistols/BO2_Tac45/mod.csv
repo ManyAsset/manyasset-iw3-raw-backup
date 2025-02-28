@@ -1,0 +1,21 @@
+//Ported By SadSlothXL
+
+xanim,vm_t6_tac45_sprint_loop
+xanim,vm_t6_tac45_reload
+xanim,vm_t6_tac45_reload_empty
+xanim,vm_t6_tac45_lastshot
+xanim,vm_t6_tac45_raise
+xanim,vm_t6_tac45_idle
+xanim,vm_t6_tac45_fire
+xanim,vm_t6_tac45_first_raise
+xanim,vm_t6_tac45_ads_up
+xanim,vm_t6_tac45_drop
+xanim,vm_t6_tac45_ads_down
+xanim,vm_t6_tac45_ads_fire
+
+xmodel,wm_t6_tac45
+xmodel,vm_t6_tac45
+
+sound,t6_tac45,,all_mp
+
+weapon,mp/t6_tac45_mp
