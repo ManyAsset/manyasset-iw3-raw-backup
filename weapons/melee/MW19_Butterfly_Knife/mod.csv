@@ -1,0 +1,15 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw8_butterfly_knife_sprint_out
+xanim,vm_iw8_butterfly_knife_sprint_in
+xanim,vm_iw8_butterfly_knife_sprint_loop
+xanim,vm_iw8_butterfly_knife_raise
+xanim,vm_iw8_butterfly_knife_slice
+xanim,vm_iw8_butterfly_knife_drop
+xanim,vm_iw8_butterfly_knife_idle
+xanim,vm_iw8_butterfly_knife_ads
+
+xmodel,vm_iw8_butterfly_knife_balisong
+xmodel,vm_iw8_butterfly_knife
+
+weapon,mp/iw8_butterflyknife_mp
