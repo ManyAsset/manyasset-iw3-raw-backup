@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw4_acr_sprint_loop
+xanim,vm_iw4_acr_sprint_out
+xanim,vm_iw4_acr_reload_empty
+xanim,vm_iw4_acr_sprint_in
+xanim,vm_iw4_acr_raise_first
+xanim,vm_iw4_acr_reload
+xanim,vm_iw4_acr_idle
+xanim,vm_iw4_acr_raise
+xanim,vm_iw4_acr_drop
+xanim,vm_iw4_acr_fire
+xanim,vm_iw4_acr_ads_fire
+xanim,vm_iw4_acr_ads_up
+xanim,vm_iw4_acr_ads_down
+
+material,hud_iw4_acr
+
+xmodel,vm_iw4_acr
+xmodel,wm_iw4_acr
+
+sound,iw4_acr,,all_mp
+
+weapon,mp/iw4_acr_mp
