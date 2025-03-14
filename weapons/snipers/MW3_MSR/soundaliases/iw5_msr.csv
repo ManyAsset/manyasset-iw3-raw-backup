@@ -1,0 +1,12 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw5_msr_fire_plr,,iw5/msr/iw5_msr_fire_plr.wav,1,1,max,0.85,0.94,5000,,local,,,,0.85,,,,iw5_msr_fire_lyr_plr,weapon2,,,,
+iw5_msr_fire_lyr_plr,,iw5/msr/iw5_msr_fire_lyr.wav,0.85,0.94,max,0.75,0.85,500000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_msr_fire_npc,,iw5/msr/iw5_msr_fire_npc.wav,1,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+
+iw5_msr_lift,,iw5/msr/iw5_msr_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_msr_mag_in,,iw5/msr/iw5_msr_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_msr_mag_out,,iw5/msr/iw5_msr_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_msr_bf,,iw5/msr/iw5_msr_bf.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_msr_bb,,iw5/msr/iw5_msr_bb.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
