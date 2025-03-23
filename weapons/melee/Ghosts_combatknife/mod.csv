@@ -1,0 +1,15 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw6_combatknife_sprint_out
+xanim,vm_iw6_combatknife_stab
+xanim,vm_iw6_combatknife_sprint_in
+xanim,vm_iw6_combatknife_sprint_loop
+xanim,vm_iw6_combatknife_raise
+xanim,vm_iw6_combatknife_slice
+xanim,vm_iw6_combatknife_idle
+xanim,vm_iw6_combatknife_quick_raise
+xanim,vm_iw6_combatknife_drop
+
+xmodel,vm_iw6_combatknife
+
+weapon,mp/iw6_combatknife_mp
