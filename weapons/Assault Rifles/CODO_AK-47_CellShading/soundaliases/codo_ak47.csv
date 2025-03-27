@@ -1,0 +1,17 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+codo_ak47_fire_plr,,codo/ak47/codo_ak47_fire.wav,0.9,0.9,max,0.9,1,5000,,local,,,,0.85,,,,codo_ak47_fire_mech_lyr,weapon2,,,,
+codo_ak47_fire_mech_lyr,1,codo/ak47/codo_ak47_fire_mech_layer_1.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_ak47_fire_mech_lyr,2,codo/ak47/codo_ak47_fire_mech_layer_2.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_ak47_fire_mech_lyr,3,codo/ak47/codo_ak47_fire_mech_layer_3.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_ak47_fire_mech_lyr,4,codo/ak47/codo_ak47_fire_mech_layer_4.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_ak47_fire_mech_lyr,5,codo/ak47/codo_ak47_fire_mech_layer_5.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_ak47_fire_mech_lyr,6,codo/ak47/codo_ak47_fire_mech_layer_6.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_ak47_fire_mech_lyr,7,codo/ak47/codo_ak47_fire_mech_layer_7.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_ak47_fire_mech_lyr,9,codo/ak47/codo_ak47_fire_mech_layer_8.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_ak47_fire_npc,,codo/ak47/codo_ak47_fire.wav,0.8,0.8,wpnai,0.9,1,35,13780,weapon,,,,0.7,all_mp,,,,weapon4
+
+codo_ak47_clipout,,codo/ak47/codo_ak47_clipout.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_ak47_clipin,,codo/ak47/codo_ak47_clipin.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+codo_ak47_chamber,,codo/ak47/codo_ak47_chamber.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+codo_ak47_lift,,codo/ak47/codo_ak47_lift.wav,0.8,0.8,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,

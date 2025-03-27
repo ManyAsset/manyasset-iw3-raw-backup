@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_ak47_sprint_loop
+xanim,vm_codo_ak47_sprint_out
+xanim,vm_codo_ak47_reload_empty
+xanim,vm_codo_ak47_sprint_in
+xanim,vm_codo_ak47_putaway
+xanim,vm_codo_ak47_reload
+xanim,vm_codo_ak47_pullout
+xanim,vm_codo_ak47_pullout_first
+xanim,vm_codo_ak47_fire
+xanim,vm_codo_ak47_fire_ads
+xanim,vm_codo_ak47_idle
+xanim,vm_codo_ak47_ads_up
+xanim,vm_codo_ak47_ads_down
+
+material,hud_codo_ak47
+
+xmodel,wm_codol_ak47_cellshading
+xmodel,vm_codol_ak47_cellshading
+
+sound,codo_ak47,,all_mp
+
+weapon,mp/codo_ak47cell_mp
