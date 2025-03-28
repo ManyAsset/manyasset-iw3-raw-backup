@@ -1,0 +1,14 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+h2_intervention_fire_plr,,h2/intervention/h2_intervention_fire.wav,1,1,max,1,1,5000,,local,,,,0.85,,,,,weapon2,,,,
+h2_intervention_fire_npc,,h2/intervention/h2_intervention_fire.wav,1,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+h2_intervention_lift,,h2/intervention/h2_intervention_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_intervention_lift_2,,h2/intervention/h2_intervention_lift_2.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_intervention_bolt_close,,h2/intervention/h2_intervention_bolt_close.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_intervention_bolt_lock,,h2/intervention/h2_intervention_bolt_lock.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_intervention_bolt_open,,h2/intervention/h2_intervention_bolt_open.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_intervention_bolt_unlock,,h2/intervention/h2_intervention_bolt_unlock.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_intervention_first_raise,,h2/intervention/h2_intervention_first_raise.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_intervention_mag_in,,h2/intervention/h2_intervention_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+h2_intervention_mag_out,,h2/intervention/h2_intervention_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2

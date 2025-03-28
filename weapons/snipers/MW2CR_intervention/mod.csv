@@ -1,0 +1,27 @@
+//Ported By SadSlothXL
+
+xanim,vm_h2_intervention_ads_down
+xanim,vm_h2_intervention_ads_up
+xanim,vm_h2_intervention_drop
+xanim,vm_h2_intervention_drop_quick
+xanim,vm_h2_intervention_fire
+xanim,vm_h2_intervention_idle
+xanim,vm_h2_intervention_raise
+xanim,vm_h2_intervention_raise_first
+xanim,vm_h2_intervention_raise_quick
+xanim,vm_h2_intervention_rechamber
+xanim,vm_h2_intervention_reload
+xanim,vm_h2_intervention_reload_empty
+xanim,vm_h2_intervention_sprint_in
+xanim,vm_h2_intervention_sprint_loop
+xanim,vm_h2_intervention_sprint_out
+
+material,hud_h2_intervention
+material,mtl_h2_intervention_scopeoverlay
+
+xmodel,wm_h2_intervention
+xmodel,vm_h2_intervention
+
+sound,h2_intervention,,all_mp
+
+weapon,mp/h2_intervention_mp
