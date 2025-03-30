@@ -1,0 +1,26 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_model1887_ads_down
+xanim,vm_codo_model1887_ads_up
+xanim,vm_codo_model1887_drop
+xanim,vm_codo_model1887_fire
+xanim,vm_codo_model1887_fire_ads
+xanim,vm_codo_model1887_idle
+xanim,vm_codo_model1887_raise
+xanim,vm_codo_model1887_raise_first
+xanim,vm_codo_model1887_rechamber
+xanim,vm_codo_model1887_reload_end
+xanim,vm_codo_model1887_reload_loop
+xanim,vm_codo_model1887_reload_start
+xanim,vm_codo_model1887_sprint_in
+xanim,vm_codo_model1887_sprint_loop
+xanim,vm_codo_model1887_sprint_out
+
+material,hud_codo_model1887
+
+xmodel,wm_codo_model1887
+xmodel,vm_codo_model1887
+
+sound,codo_model1887,,all_mp
+
+weapon,mp/codo_model1887cell_mp
