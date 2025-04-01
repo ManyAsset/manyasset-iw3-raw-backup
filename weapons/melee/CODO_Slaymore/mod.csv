@@ -1,0 +1,16 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_slaymore_drop
+xanim,vm_codo_slaymore_drop_quick
+xanim,vm_codo_slaymore_idle
+xanim,vm_codo_slaymore_raise
+xanim,vm_codo_slaymore_raise_quick
+xanim,vm_codo_slaymore_sprint_in
+xanim,vm_codo_slaymore_sprint_loop
+xanim,vm_codo_slaymore_sprint_out
+xanim,vm_codo_slaymore_stab
+xanim,vm_codo_slaymore_swipe
+
+xmodel,vm_codo_slaymore
+
+weapon,mp/codo_slaymore_mp
