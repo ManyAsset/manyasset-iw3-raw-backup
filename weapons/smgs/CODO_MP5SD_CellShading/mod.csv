@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_mp5sd_ads_down
+xanim,vm_codo_mp5sd_ads_up
+xanim,vm_codo_mp5sd_drop
+xanim,vm_codo_mp5sd_fire
+xanim,vm_codo_mp5sd_fire_ads
+xanim,vm_codo_mp5sd_idle
+xanim,vm_codo_mp5sd_raise
+xanim,vm_codo_mp5sd_raise_first
+xanim,vm_codo_mp5sd_reload
+xanim,vm_codo_mp5sd_reload_empty
+xanim,vm_codo_mp5sd_sprint_in
+xanim,vm_codo_mp5sd_sprint_loop
+xanim,vm_codo_mp5sd_sprint_out
+
+material,hud_codo_mp5sd
+
+xmodel,wm_codo_mp5sd_cellshading
+xmodel,vm_codo_mp5sd_cellshading
+
+sound,codo_mp5sd,,all_mp
+
+weapon,mp/codo_mp5sdcell_mp

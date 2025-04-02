@@ -1,0 +1,17 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+codo_mp5sd_fire_plr,,codo/mp5sd/codo_mp5sd_fire_plr.wav,1,1,max,0.9,1,5000,,local,,,,0.85,,,,codo_mp5sd_fire_mech_lyr,weapon2,,,,
+codo_mp5sd_fire_mech_lyr,1,codo/mp5sd/codo_mp5sd_fire_mech_layer_1.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_mp5sd_fire_mech_lyr,2,codo/mp5sd/codo_mp5sd_fire_mech_layer_2.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_mp5sd_fire_mech_lyr,3,codo/mp5sd/codo_mp5sd_fire_mech_layer_3.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_mp5sd_fire_mech_lyr,4,codo/mp5sd/codo_mp5sd_fire_mech_layer_4.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_mp5sd_fire_mech_lyr,5,codo/mp5sd/codo_mp5sd_fire_mech_layer_5.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_mp5sd_fire_mech_lyr,6,codo/mp5sd/codo_mp5sd_fire_mech_layer_6.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_mp5sd_fire_mech_lyr,7,codo/mp5sd/codo_mp5sd_fire_mech_layer_7.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_mp5sd_fire_mech_lyr,9,codo/mp5sd/codo_mp5sd_fire_mech_layer_8.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_mp5sd_fire_npc,,codo/mp5sd/codo_mp5sd_fire_npc.wav,1,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+codo_mp5sd_chamber,,codo/mp5sd/codo_mp5sd_chamber.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_mp5sd_lift,,codo/mp5sd/codo_mp5sd_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_mp5sd_mag_in,,codo/mp5sd/codo_mp5sd_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_mp5sd_mag_out,,codo/mp5sd/codo_mp5sd_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
