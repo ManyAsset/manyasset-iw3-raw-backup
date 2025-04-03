@@ -1,0 +1,23 @@
+//Ported By SadSlothXL
+
+xanim,vm_t5_1911_ads_fire
+xanim,vm_t5_1911_ads_up
+xanim,vm_t5_1911_drop
+xanim,vm_t5_1911_fire
+xanim,vm_t5_1911_first_raise
+xanim,vm_t5_1911_idle
+xanim,vm_t5_1911_lastshot
+xanim,vm_t5_1911_raise
+xanim,vm_t5_1911_reload
+xanim,vm_t5_1911_reload_empty
+xanim,vm_t5_1911_sprint_loop
+xanim,vm_t5_1911_ads_down
+
+material,hud_t5_1911
+
+xmodel,wm_t5_1911
+xmodel,vm_t5_1911
+
+sound,t5_1911,,all_mp
+
+weapon,mp/t5_1911_mp
