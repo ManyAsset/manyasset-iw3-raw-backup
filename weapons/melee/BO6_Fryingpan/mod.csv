@@ -1,0 +1,18 @@
+//Ported By SadSlothXL
+
+xanim,vm_t10_cleaver_drop
+xanim,vm_t10_cleaver_idle
+xanim,vm_t10_cleaver_melee_stab
+xanim,vm_t10_cleaver_melee_swipe
+xanim,vm_t10_cleaver_raise
+xanim,vm_t10_cleaver_raise_first
+xanim,vm_t10_cleaver_raise_quick
+xanim,vm_t10_cleaver_sprint_in
+xanim,vm_t10_cleaver_sprint_loop
+xanim,vm_t10_cleaver_sprint_out
+xanim,vm_t10_cleaver_ads_down
+xanim,vm_t10_cleaver_ads_up
+
+xmodel,vm_t10_pan
+
+weapon,mp/t10_fryingpan_mp
