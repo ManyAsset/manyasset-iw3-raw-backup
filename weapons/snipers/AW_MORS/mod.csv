@@ -1,0 +1,27 @@
+//Ported By SadSlothXL
+
+xanim,vm_s1_mors_drop
+xanim,vm_s1_mors_drop_quick
+xanim,vm_s1_mors_fire
+xanim,vm_s1_mors_idle
+xanim,vm_s1_mors_raise
+xanim,vm_s1_mors_raise_quick
+xanim,vm_s1_mors_rechamber
+xanim,vm_s1_mors_rechamber_ads
+xanim,vm_s1_mors_sprint_in
+xanim,vm_s1_mors_sprint_loop
+xanim,vm_s1_mors_sprint_out
+xanim,vm_s1_mors_ads_down
+xanim,vm_s1_mors_ads_up
+
+fx,muzzleflashes/mors_rifleflash
+
+material,hud_s1_mors
+material,mtl_s1_mors_scope_overlay
+
+xmodel,wm_s1_mors
+xmodel,vm_s1_mors
+
+sound,s1_mors,,all_mp
+
+weapon,mp/s1_mors_mp
