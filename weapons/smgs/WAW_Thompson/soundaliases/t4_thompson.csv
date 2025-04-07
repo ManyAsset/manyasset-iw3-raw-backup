@@ -1,0 +1,11 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t4_thompson_fire_plr,,t4/thompson/t4_thompson_fire_plr.wav,0.8,0.8,max,0.98,1.02,5000,,local,,,,0.85,,,,t4_thompson_fire_ringoff_plr,weapon2,,,,1,
+t4_thompson_fire_ringoff_plr,,t4/thompson/t4_thompson_fire_ringoff_plr.wav,0.85,0.9,max,0.98,1.02,5000,,local2,,,,0.85,,,,,weapon2,,,,
+t4_thompson_fire_npc,,t4/thompson/t4_thompson_fire_npc.wav,1,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,t4_thompson_fire_lyr_npc,weapon4
+t4_thompson_fire_lyr_npc,,t4/thompson/t4_thompson_fire_lyr_npc.wav,1,1,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+
+t4_thompson_charge,,t4/thompson/t4_thompson_charge.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_thompson_mag_in,,t4/thompson/t4_thompson_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_thompson_mag_out,,t4/thompson/t4_thompson_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
