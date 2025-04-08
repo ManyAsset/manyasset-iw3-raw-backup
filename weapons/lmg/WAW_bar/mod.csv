@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_t4_bar_ads_down
+xanim,vm_t4_bar_ads_fire
+xanim,vm_t4_bar_ads_up
+xanim,vm_t4_bar_drop
+xanim,vm_t4_bar_fire
+xanim,vm_t4_bar_fire_last
+xanim,vm_t4_bar_idle
+xanim,vm_t4_bar_raise
+xanim,vm_t4_bar_reload
+xanim,vm_t4_bar_reload_empty
+xanim,vm_t4_bar_sprint_in
+xanim,vm_t4_bar_sprint_loop
+xanim,vm_t4_bar_sprint_out
+
+material,hud_t4_bar
+
+xmodel,vm_t4_bar
+xmodel,vm_t4_bar
+
+sound,t4_bar,,all_mp
+
+weapon,mp/t4_bar_mp
