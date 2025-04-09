@@ -17,7 +17,7 @@ xanim,vm_t4_bar_sprint_out
 material,hud_t4_bar
 
 xmodel,vm_t4_bar
-xmodel,vm_t4_bar
+xmodel,wm_t4_bar
 
 sound,t4_bar,,all_mp
 
