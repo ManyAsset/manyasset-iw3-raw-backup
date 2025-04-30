@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_pdw2000_idle
+xanim,vm_codo_pdw2000_raise
+xanim,vm_codo_pdw2000_raise_first
+xanim,vm_codo_pdw2000_reload
+xanim,vm_codo_pdw2000_reload_empty
+xanim,vm_codo_pdw2000_sprint_in
+xanim,vm_codo_pdw2000_sprint_loop
+xanim,vm_codo_pdw2000_sprint_out
+xanim,vm_codo_pdw2000_ads_down
+xanim,vm_codo_pdw2000_ads_up
+xanim,vm_codo_pdw2000_drop
+xanim,vm_codo_pdw2000_fire
+xanim,vm_codo_pdw2000_fire_ads
+
+material,hud_codo_pdw2000
+
+xmodel,wm_codo_pdw2000_cellshading
+xmodel,vm_codo_pdw2000_cellshading
+
+sound,codo_pdw2000,,all_mp
+
+weapon,mp/codo_pdw2000cell_mp

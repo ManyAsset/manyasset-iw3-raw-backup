@@ -1,0 +1,18 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+codo_pdw2000_fire_plr,,codo/pdw2000/codo_pdw2000_fire_plr.wav,0.53,0.5,max,1.14,1.25,5000,,local,,,,0.85,,,,codo_pdw2000_fire_mech_lyr,weapon2,,,,
+codo_pdw2000_fire_mech_lyr,1,codo/pdw2000/codo_pdw2000_fire_mech_layer_1.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_pdw2000_fire_mech_lyr,2,codo/pdw2000/codo_pdw2000_fire_mech_layer_2.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_pdw2000_fire_mech_lyr,3,codo/pdw2000/codo_pdw2000_fire_mech_layer_3.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_pdw2000_fire_mech_lyr,4,codo/pdw2000/codo_pdw2000_fire_mech_layer_4.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_pdw2000_fire_mech_lyr,5,codo/pdw2000/codo_pdw2000_fire_mech_layer_5.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_pdw2000_fire_mech_lyr,6,codo/pdw2000/codo_pdw2000_fire_mech_layer_6.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_pdw2000_fire_mech_lyr,7,codo/pdw2000/codo_pdw2000_fire_mech_layer_7.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_pdw2000_fire_mech_lyr,8,codo/pdw2000/codo_pdw2000_fire_mech_layer_8.wav,0.3,0.24,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_pdw2000_fire_npc,,codo/pdw2000/codo_pdw2000_fire_npc.wav,0.75,0.8,wpnai,1.14,1.25,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+codo_pdw2000_chamber,,codo/pdw2000/codo_pdw2000_chamber.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_pdw2000_mag_in,,codo/pdw2000/codo_pdw2000_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_pdw2000_mag_out,,codo/pdw2000/codo_pdw2000_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_pdw2000_lift,,codo/pdw2000/codo_pdw2000_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_pdw2000_first_raise,,codo/pdw2000/codo_pdw2000_first_raise.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
