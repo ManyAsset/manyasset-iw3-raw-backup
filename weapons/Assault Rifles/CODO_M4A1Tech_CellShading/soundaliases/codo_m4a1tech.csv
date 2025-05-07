@@ -1,0 +1,18 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+codo_m4a1tech_fire_plr,,codo/m4a1tech/codo_m4a1tech_fire_plr.wav,0.4,0.53,max,0.89,1,5000,,local,,,,0.85,,,,codo_m4a1tech_fire_mech_lyr,weapon2,,,,
+codo_m4a1tech_fire_mech_lyr,1,codo/fire_layer_plr/codo_fire_mech_layer_1.wav,0.5,0.5,max,1.1,1.2,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_m4a1tech_fire_mech_lyr,2,codo/fire_layer_plr/codo_fire_mech_layer_2.wav,0.5,0.5,max,1.1,1.2,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_m4a1tech_fire_mech_lyr,3,codo/fire_layer_plr/codo_fire_mech_layer_3.wav,0.5,0.5,max,1.1,1.2,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_m4a1tech_fire_mech_lyr,4,codo/fire_layer_plr/codo_fire_mech_layer_4.wav,0.5,0.5,max,1.1,1.2,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_m4a1tech_fire_mech_lyr,5,codo/fire_layer_plr/codo_fire_mech_layer_5.wav,0.5,0.5,max,1.1,1.2,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_m4a1tech_fire_mech_lyr,6,codo/fire_layer_plr/codo_fire_mech_layer_6.wav,0.5,0.5,max,1.1,1.2,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_m4a1tech_fire_mech_lyr,7,codo/fire_layer_plr/codo_fire_mech_layer_7.wav,0.5,0.5,max,1.1,1.2,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_m4a1tech_fire_mech_lyr,9,codo/fire_layer_plr/codo_fire_mech_layer_8.wav,0.5,0.5,max,1.1,1.2,5000,,local2,,,,0.85,,,,,weapon2,,,,
+codo_m4a1tech_fire_npc,,codo/m4a1tech/codo_m4a1tech_fire_npc.wav,0.7,0.75,wpnai,0.85,0.94,35,13780,weapon,,,,0.7,all_mp,,,,weapon4
+
+codo_m4a1tech_mag_out,,codo/m4a1tech/codo_m4a1tech_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_m4a1tech_mag_in,,codo/m4a1tech/codo_m4a1tech_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+codo_m4a1tech_chamber,,codo/m4a1tech/codo_m4a1tech_chamber.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+codo_m4a1tech_lift,,codo/m4a1tech/codo_m4a1tech_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+codo_m4a1tech_first_raise,,codo/m4a1tech/codo_m4a1tech_first_raise.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
