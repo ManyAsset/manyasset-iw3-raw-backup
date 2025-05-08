@@ -1,0 +1,19 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw5_fmg9_fire_plr,,iw5/fmg9/iw5_fmg9_fire_plr.wav,0.81,0.88,max,0.94,1.04,5000,,local,,,,0.85,,,,iw5_fmg9_fire_lyr_plr,weapon2,,,,
+iw5_fmg9_fire_lyr_plr,1,iw5/fmg9/iw5_fmg9_fire_layer_01.wav,0.8,0.89,max,0.94,1.04,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_fmg9_fire_lyr_plr,2,iw5/fmg9/iw5_fmg9_fire_layer_02.wav,0.8,0.89,max,0.94,1.04,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_fmg9_fire_lyr_plr,3,iw5/fmg9/iw5_fmg9_fire_layer_03.wav,0.8,0.89,max,0.94,1.04,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_fmg9_fire_lyr_plr,4,iw5/fmg9/iw5_fmg9_fire_layer_04.wav,0.8,0.89,max,0.94,1.04,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_fmg9_fire_lyr_plr,5,iw5/fmg9/iw5_fmg9_fire_layer_05.wav,0.8,0.89,max,0.94,1.04,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_fmg9_fire_lyr_plr,6,iw5/fmg9/iw5_fmg9_fire_layer_06.wav,0.8,0.89,max,0.94,1.04,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_fmg9_fire_lyr_plr,7,iw5/fmg9/iw5_fmg9_fire_layer_07.wav,0.8,0.89,max,0.94,1.04,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_fmg9_fire_lyr_plr,8,iw5/fmg9/iw5_fmg9_fire_layer_08.wav,0.8,0.89,max,0.94,1.04,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_fmg9_fire_npc,,iw5/fmg9/iw5_fmg9_fire_npc.wav,0.86,0.92,wpnai,1.04,1.14,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+iw5_fmg9_chamber,,iw5/fmg9/iw5_fmg9_chamber.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_fmg9_mag_in,,iw5/fmg9/iw5_fmg9_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_fmg9_mag_out,,iw5/fmg9/iw5_fmg9_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_fmg9_lift,,iw5/fmg9/iw5_fmg9_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_fmg9_firstraise_flip,,iw5/fmg9/iw5_fmg9_firstraise_flip.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_fmg9_firstraise_lift,,iw5/fmg9/iw5_fmg9_firstraise_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
