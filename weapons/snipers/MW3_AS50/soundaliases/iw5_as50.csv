@@ -1,0 +1,10 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw5_as50_fire_plr,,iw5/as50/iw5_as50_fire_plr.wav,0.95,0.98,max,1.04,1.14,5000,,local,,,,0.85,,,,,weapon2,,,,
+iw5_as50_fire_npc,,iw5/as50/iw5_as50_fire_npc.wav,0.88,0.93,wpnai,1.2,1.29,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+iw5_as50_lift,,iw5/as50/iw5_as50_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_as50_mag_in,,iw5/as50/iw5_as50_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_as50_mag_out,,iw5/as50/iw5_as50_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_as50_bf,,iw5/as50/iw5_as50_bf.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_as50_bb,,iw5/as50/iw5_as50_bb.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2

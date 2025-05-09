@@ -1,0 +1,25 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw5_as50_ads_up
+xanim,vm_iw5_as50_ads_down
+xanim,vm_iw5_as50_drop
+xanim,vm_iw5_as50_drop_quick
+xanim,vm_iw5_as50_fire
+xanim,vm_iw5_as50_idle
+xanim,vm_iw5_as50_raise
+xanim,vm_iw5_as50_raise_quick
+xanim,vm_iw5_as50_reload
+xanim,vm_iw5_as50_reload_empty
+xanim,vm_iw5_as50_sprint_in
+xanim,vm_iw5_as50_sprint_loop
+xanim,vm_iw5_as50_sprint_out
+
+material,hud_iw5_as50
+material,mtl_iw5_as50_scopeoverlay
+
+xmodel,wm_iw5_as50
+xmodel,vm_iw5_as50
+
+sound,iw5_as50,,all_mp
+
+weapon,mp/iw5_as50_mp
