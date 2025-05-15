@@ -1,0 +1,24 @@
+//Ported By SadSlothXL
+
+xanim,vm_codo_mr23_ads_down
+xanim,vm_codo_mr23_ads_up
+xanim,vm_codo_mr23_drop
+xanim,vm_codo_mr23_fire
+xanim,vm_codo_mr23_fire_ads
+xanim,vm_codo_mr23_idle
+xanim,vm_codo_mr23_raise
+xanim,vm_codo_mr23_raise_first
+xanim,vm_codo_mr23_reload
+xanim,vm_codo_mr23_reload_empty
+xanim,vm_codo_mr23_sprint_in
+xanim,vm_codo_mr23_sprint_loop
+xanim,vm_codo_mr23_sprint_out
+
+material,hud_codo_mr23
+
+xmodel,wm_codo_mr23_cellshading
+xmodel,vm_codo_mr23_cellshading
+
+sound,codo_mr23,,all_mp
+
+weapon,mp/codo_mr23cell_mp
