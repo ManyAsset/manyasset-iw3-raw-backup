@@ -1,0 +1,11 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw6_sa805_fire_plr,,iw6/sa805/iw6_sa805_fire_plr.wav,0.36,0.4,max,0.8,0.89,5000,,local,,,,0.85,,,,iw6_sa805_fire_lyr_plr,weapon2,,,,
+iw6_sa805_fire_lyr_plr,,iw6/sa805/iw6_sa805_fire_lyr_plr.wav,0.36,0.4,max,1.1,1.2,500000,,local2,,,,0.85,,,,,weapon2,,,,
+iw6_sa805_fire_npc,,iw6/sa805/iw6_sa805_fire_npc.wav,0.4,0.4,wpnai,0.89,1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+
+iw6_sa805_mag_in,,iw6/sa805/iw6_sa805_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_sa805_mag_out,,iw6/sa805/iw6_sa805_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_sa805_chamber,,iw6/sa805/iw6_sa805_chamber.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_sa805_settle,,iw6/sa805/iw6_sa805_settle.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
