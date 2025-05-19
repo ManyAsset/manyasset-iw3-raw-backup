@@ -1,0 +1,13 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw6_l115_fire_plr,,iw6/l115/iw6_l115_fire_plr.wav,0.6,0.649,max,0.89,1,5000,,local,,,,0.85,,,,iw6_l115_fire_lyr_plr,weapon2,,,,
+iw6_l115_fire_lyr_plr,,iw6/l115/iw6_l115_fire_lyr_plr.wav,0.3,0.349,max,1.1,1.2,500000,,local2,,,,0.85,,,,,weapon2,,,,
+iw6_l115_fire_npc,,iw6/l115/iw6_l115_fire_npc.wav,0.349,0.4,wpnai,1,1.1,35,8500,weapon,,,,0.7,all_mp,,,,weapon4
+
+iw6_l115_lift,,iw6/l115/iw6_l115_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_l115_mag_in,,iw6/l115/iw6_l115_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_l115_mag_out,,iw6/l115/iw6_l115_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_l115_bf,,iw6/l115/iw6_l115_bf.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_l115_bb,,iw6/l115/iw6_l115_bb.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_l115_first_raise,,iw6/l115/iw6_l115_first_raise.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_l115_settle,,iw6/l115/iw6_l115_settle.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
