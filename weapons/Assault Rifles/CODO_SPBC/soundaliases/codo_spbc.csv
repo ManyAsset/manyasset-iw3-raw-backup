@@ -1,0 +1,10 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+codo_spbc_fire_plr,,codo/spbc/codo_spbc_fire_plr.wav,1,1,max,0.94,1.04,5000,,local,,,,0.85,,,,codo_spbc_fire_mech_lyr,weapon2,,,,
+codo_spbc_fire_npc,,codo/spbc/codo_spbc_fire_npc.wav,1,1,wpnai,0.94,1.04,35,13780,weapon,,,,0.7,all_mp,,,,weapon4
+
+codo_spbc_mag_out,,codo/spbc/codo_spbc_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+codo_spbc_mag_in,,codo/spbc/codo_spbc_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+codo_spbc_chamber,,codo/spbc/codo_spbc_chamber.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+codo_spbc_lift,,codo/spbc/codo_spbc_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+codo_spbc_first_raise,,codo/spbc/codo_spbc_first_raise.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
