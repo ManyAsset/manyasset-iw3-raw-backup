@@ -1,0 +1,14 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw6_honeybadger_fire_plr,,iw6/honeybadger/iw6_honeybadger_fire_plr.wav,0.212,0.2475,max,1.049,1.149,5000,,local,,,,0.85,,,,iw6_honeybadger_fire_lyr_plr,weapon2,,,,
+iw6_honeybadger_fire_lyr_plr,,iw6/honeybadger/iw6_honeybadger_fire_lyr_plr.wav,0.28279,0.31819,max,1.049,1.149,500000,,local2,,,,0.85,,,,,weapon2,,,,
+iw6_honeybadger_fire_npc,,iw6/honeybadger/iw6_honeybadger_fire_npc.wav,0.9,0.9,wpnai,1.049,1.149,35,2000,weapon,,,,0.7,all_mp,,,,weapon4
+
+
+iw6_honeybadger_mag_in,,iw6/honeybadger/iw6_honeybadger_mag_in.wav,0.5,0.5,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_honeybadger_mag_out,,iw6/honeybadger/iw6_honeybadger_mag_out.wav,0.5,0.5,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_honeybadger_chamber,,iw6/honeybadger/iw6_honeybadger_chamber.wav,0.5,0.5,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_honeybadger_settle,,iw6/honeybadger/iw6_honeybadger_settle.wav,0.5,0.5,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_honeybadger_first_raise,,iw6/honeybadger/iw6_honeybadger_first_raise.wav,0.5,0.5,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_honeybadger_lift,,iw6/honeybadger/iw6_honeybadger_lift.wav,0.5,0.5,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw6_honeybadger_stock_pull,,iw6/honeybadger/iw6_honeybadger_stock_pull.wav,0.5,0.5,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2

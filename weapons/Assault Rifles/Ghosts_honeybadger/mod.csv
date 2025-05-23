@@ -1,0 +1,26 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw6_honeybadger_fire
+xanim,vm_iw6_honeybadger_first_raise
+xanim,vm_iw6_honeybadger_idle
+xanim,vm_iw6_honeybadger_raise
+xanim,vm_iw6_honeybadger_raise_quick
+xanim,vm_iw6_honeybadger_reload
+xanim,vm_iw6_honeybadger_reload_empty
+xanim,vm_iw6_honeybadger_sprint_in
+xanim,vm_iw6_honeybadger_sprint_loop
+xanim,vm_iw6_honeybadger_sprint_out
+xanim,vm_iw6_honeybadger_ads_down
+xanim,vm_iw6_honeybadger_ads_fire
+xanim,vm_iw6_honeybadger_ads_up
+xanim,vm_iw6_honeybadger_drop
+xanim,vm_iw6_honeybadger_drop_quick
+
+material,hud_iw6_honeybadger
+
+xmodel,vm_iw6_honeybadger
+xmodel,wm_iw6_honeybadger
+
+sound,iw6_honeybadger,,all_mp
+
+weapon,mp/iw6_honeybadger_mp
