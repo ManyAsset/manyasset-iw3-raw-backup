@@ -1,0 +1,21 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t5_spas12_fire_plr,1,t5/spas12/t5_spas12_fire.wav,1,1,max,1,1,5000,,local,,,,0.85,,,,t5_spas12_fire_ringoff,weapon2,,,,
+t5_spas12_fire_ringoff,,t5/spas12/t5_spas12_fire_ringoff.wav,0.5,0.5,max,1,1,5000,,local2,,,,0.85,,,,,weapon2,,,,
+t5_spas12_fire_ringoff_npc,,t5/spas12/t5_spas12_fire_ringoff.wav,0.1,0.1,max,1,1,8500,,auto2,,,,0.7,all_mp,,,,weapon4
+t5_spas12_fire_npc,1,t5/spas12/t5_spas12_fire.wav,0.5,0.5,max,1,1,35,7500,weapon,,,,0.7,all_mp,,,t5_spas12_fire_ringoff_npc,weapon4
+
+
+t5_spas12_pull,,t5/spas12/t5_spas12_pull.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t5_spas12_push,,t5/spas12/t5_spas12_push.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t5_spas12_shell_in,1,t5/spas12/t5_spas12_shell_in_1.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t5_spas12_shell_in,2,t5/spas12/t5_spas12_shell_in_2.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t5_spas12_shell_in,3,t5/spas12/t5_spas12_shell_in_3.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t5_spas12_shell_in,4,t5/spas12/t5_spas12_shell_in_4.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t5_spas12_shell_in,5,t5/spas12/t5_spas12_shell_in_5.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+t5_spas12_shell_in,6,t5/spas12/t5_spas12_shell_in_6.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2,
+
+fly_gear_reload_plr,1,t5/gear/fly_gear_reload_plr_00.wav,1,1,wpnplyr,1,1,7,500,effects1,,,,0.85,,,,,weapon2,
+fly_gear_reload_plr,2,t5/gear/fly_gear_reload_plr_01.wav,1,1,wpnplyr,1,1,7,500,effects1,,,,0.85,,,,,weapon2,
+fly_gear_reload_plr,3,t5/gear/fly_gear_reload_plr_02.wav,1,1,wpnplyr,1,1,7,500,effects1,,,,0.85,,,,,weapon2,
+fly_gear_reload_plr,4,t5/gear/fly_gear_reload_plr_03.wav,1,1,wpnplyr,1,1,7,500,effects1,,,,0.85,,,,,weapon2,
