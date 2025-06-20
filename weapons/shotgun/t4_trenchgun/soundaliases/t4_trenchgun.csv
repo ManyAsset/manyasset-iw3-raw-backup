@@ -1,0 +1,12 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t4_trenchgun_fire_plr,,t4/trenchgun/t4_trenchgun_fire.wav,0.95,1,max,1,1,5000,,local,,,,0.85,,,,t4_trenchgun_fire_lyr_plr,weapon2,,,,1,
+t4_trenchgun_fire_lyr_plr,,t4/trenchgun/t4_trenchgun_fire_lyr.wav,0.75,0.85,max,0.98, 1.02,5000,,local2,,,,0.85,,,,,weapon2,,,,
+t4_trenchgun_fire_npc,,t4/trenchgun/t4_trenchgun_fire.wav,0.5,0.5,wpnai,1,1,35,8500,weapon,,,,0.7,all_mp,,,t4_trenchgun_fire_lyr_npc,weapon4
+t4_trenchgun_fire_lyr_npc,,t4/trenchgun/t4_trenchgun_fire_lyr.wav,0.3,0.3,wpnai,0.92,1.08,35,8500,auto2,,,,0.7,all_mp,,,,weapon4
+
+t4_trenchgun_pull,,t4/trenchgun/t4_trenchgun_pull.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_trenchgun_push,,t4/trenchgun/t4_trenchgun_push.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_trenchgun_shell_in,1,t4/trenchgun/t4_trenchgun_shell_in_00.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_trenchgun_shell_in,2,t4/trenchgun/t4_trenchgun_shell_in_01.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_trenchgun_shell_in,3,t4/trenchgun/t4_trenchgun_shell_in_02.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
