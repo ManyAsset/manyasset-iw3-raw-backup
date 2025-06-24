@@ -1,0 +1,17 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t4_doublebarrel_fire_plr,,t4/doublebarrel/t4_doublebarrel_fire_plr.wav,1,1,max,0.95,1,5000,,local,,,,0.85,,,,t4_doublebarrel_fire_lyr_plr,weapon2,,,,1,
+t4_doublebarrel_fire_lyr_plr,,t4/doublebarrel/t4_doublebarrel_fire_lyr_plr.wav,1,1,max,1,1,5000,,local2,,,,0.85,,,,t4_doublebarrel_fire_ringoff_01,weapon2,,,,
+t4_doublebarrel_fire_ringoff_01,,t4/doublebarrel/t4_doublebarrel_fire_ringoff_01_plr.wav,0.75,0.85,max,0.98,1.02,5000,,auto2d,,,,0.85,,,,t4_doublebarrel_fire_ringoff_02,weapon2,,,,
+t4_doublebarrel_fire_ringoff_02,,t4/doublebarrel/t4_doublebarrel_fire_ringoff_02_plr.wav,0.65,0.95,max,1,1,5000,,auto2d,,,,0.85,,,,,weapon2,,,,
+
+t4_doublebarrel_fire_npc,,t4/doublebarrel/t4_doublebarrel_fire_npc.wav,0.98,1,wpnai,0.95,1.05,35,8500,weapon,,,,0.7,all_mp,,,t4_doublebarrel_fire_lyr_npc,weapon4
+t4_doublebarrel_fire_lyr_npc,,t4/doublebarrel/t4_doublebarrel_fire_lyr_npc.wav,0.8,0.9,wpnai,0.95,1.05,35,8500,auto2,,,,0.7,all_mp,,,,weapon4
+
+t4_doublebarrel_break,,t4/doublebarrel/t4_doublebarrel_break.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_doublebarrel_click,,t4/doublebarrel/t4_doublebarrel_click.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_doublebarrel_close,,t4/doublebarrel/t4_doublebarrel_close.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_doublebarrel_shake_1,,t4/doublebarrel/t4_doublebarrel_shake_1.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_doublebarrel_shake_2,,t4/doublebarrel/t4_doublebarrel_shake_2.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_doublebarrel_shell_in_1,,t4/doublebarrel/t4_doublebarrel_shell_in_1.wav,1,1,wpnplyr,0.95,1.05,7,500,local2,,,,0.85,,,,,weapon2
+t4_doublebarrel_shell_in_2,,t4/doublebarrel/t4_doublebarrel_shell_in_2.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2
