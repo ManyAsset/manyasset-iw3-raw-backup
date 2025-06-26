@@ -1,0 +1,13 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+iw5_pkppecheneg_fire_plr,,iw5/pkppecheneg/iw5_pkppecheneg_fire_plr.wav,0.819,0.889,max,0.949,1.049,5000,,local,,,,0.85,,,,iw5_pkppecheneg_fire_lyr_plr,weapon2,,,,
+iw5_pkppecheneg_fire_lyr_plr,,iw5/pkppecheneg/iw5_pkppecheneg_fire_lyr_plr.wav,0.8,0.89,max,0.949,1.049,5000,,local2,,,,0.85,,,,,weapon2,,,,
+iw5_pkppecheneg_fire_lyr_npc,,iw5/pkppecheneg/iw5_pkppecheneg_fire_lyr_npc.wav,0.3,0.379,max,0.949,1.049,8500,,auto2,,,,0.7,all_mp,,,,weapon4
+iw5_pkppecheneg_fire_npc,,iw5/pkppecheneg/iw5_pkppecheneg_fire_npc.wav,0.889,0.949,wpnai,1.049,1.149,35,8500,weapon,,,,0.7,all_mp,,,iw5_pkppecheneg_fire_lyr_npc,weapon4
+
+iw5_pkppecheneg_chamber,,iw5/pkppecheneg/iw5_pkppecheneg_chamber.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_pkppecheneg_mag_in,,iw5/pkppecheneg/iw5_pkppecheneg_mag_in.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_pkppecheneg_mag_out,,iw5/pkppecheneg/iw5_pkppecheneg_mag_out.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_pkppecheneg_lift,,iw5/pkppecheneg/iw5_pkppecheneg_lift.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_pkppecheneg_close,,iw5/pkppecheneg/iw5_pkppecheneg_close.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
+iw5_pkppecheneg_open,,iw5/pkppecheneg/iw5_pkppecheneg_open.wav,1,1,wpnplyr,1,1,7,500,reload2d,,,,0.85,,,,,weapon2
