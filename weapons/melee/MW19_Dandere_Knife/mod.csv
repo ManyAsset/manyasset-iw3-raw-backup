@@ -1,0 +1,14 @@
+//Ported By SadSlothXL
+
+xanim,vm_iw8_knife_ads
+xanim,vm_iw8_knife_drop
+xanim,vm_iw8_knife_idle
+xanim,vm_iw8_knife_raise
+xanim,vm_iw8_knife_slice
+xanim,vm_iw8_knife_sprint_in
+xanim,vm_iw8_knife_sprint_loop
+xanim,vm_iw8_knife_sprint_out
+
+xmodel,vm_iw8_knife_anime
+
+weapon,mp/iw8_animeknife_mp
