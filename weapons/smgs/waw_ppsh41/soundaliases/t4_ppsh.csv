@@ -1,0 +1,15 @@
+name,sequence,file,vol_min,vol_max,vol_mod,pitch_min,pitch_max,dist_min,dist_max,channel,type,probability,loop,masterslave,loadspec,subtitle,compression,secondaryaliasname,volumefalloffcurve,startdelay,speakermap,reverb,lfe percentage,center percentage,platform,envelop_min,envelop_max,envelop percentage,conversion
+
+t4_ppsh_fire_plr,,t4/ppsh/t4_ppsh_fire_plr.wav,0.6,0.7,max,0.97,1.03,5000,,local,,,,0.85,,,,t4_ppsh_lyr1_plr,weapon2,,,,
+t4_ppsh_lyr1_plr,,t4/ppsh/t4_ppsh_lyr1_plr.wav,0.7,0.8,max,0.97,1.03,5000,,player1,,,,0.85,,,,t4_ppsh_lyr2_plr,weapon2,,,,
+t4_ppsh_lyr2_plr,,t4/ppsh/t4_ppsh_lyr2_plr.wav,0.5,0.6,max,0.97,1.03,5000,,local2,,,,0.85,,,,t4_ppsh_fire_ringoff_plr,weapon2,,,,
+t4_ppsh_fire_ringoff_plr,,t4/ppsh/t4_ppsh_fire_ringoff_plr.wav,0.75,0.8,max,0.98,1.02,5000,,auto2d,,,,0.85,,,,,weapon2,,,,
+
+t4_ppsh_fire_npc,,t4/ppsh/t4_ppsh_fire_npc.wav,0.6,0.7,wpnai,0.95,1.05,35,8500,weapon,,,,0.7,all_mp,,,t4_ppsh_fire_act_npc,weapon4
+t4_ppsh_fire_act_npc,1,t4/ppsh/t4_ppsh_fire_act_00_npc.wav,0.5,0.6,wpnai,0.95,1.05,35,8500,auto,,,,0.7,all_mp,,,,weapon4
+t4_ppsh_fire_act_npc,2,t4/ppsh/t4_ppsh_fire_act_01_npc.wav,0.5,0.6,wpnai,0.95,1.05,35,8500,auto,,,,0.7,all_mp,,,,weapon4
+
+t4_ppsh_mag_in,,t4/ppsh/t4_ppsh_mag_in.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_ppsh_mag_out,,t4/ppsh/t4_ppsh_mag_out.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_ppsh_mag_tap,,t4/ppsh/t4_ppsh_mag_tap.wav,1,1,wpnplyr,0.95,1,7,500,reload2d,,,,0.85,,,,,weapon2
+t4_ppsh_slide_forward,,t4/ppsh/t4_ppsh_slide_forward.wav,1,1,wpnplyr,0.95,1.05,7,500,reload2d,,,,0.85,,,,,weapon2

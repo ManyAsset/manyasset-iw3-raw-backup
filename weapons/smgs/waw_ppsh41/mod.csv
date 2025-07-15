@@ -1,0 +1,27 @@
+//Ported By SadSlothXL
+
+xanim,vm_t4_ppsh_ads_down
+xanim,vm_t4_ppsh_ads_up
+xanim,vm_t4_ppsh_drop
+xanim,vm_t4_ppsh_drop_quick
+xanim,vm_t4_ppsh_fire
+xanim,vm_t4_ppsh_idle
+xanim,vm_t4_ppsh_lastshot
+xanim,vm_t4_ppsh_raise
+xanim,vm_t4_ppsh_raise_quick
+xanim,vm_t4_ppsh_reload
+xanim,vm_t4_ppsh_reload_empty
+xanim,vm_t4_ppsh_sprint_in
+xanim,vm_t4_ppsh_sprint_loop
+xanim,vm_t4_ppsh_sprint_out
+
+material,hud_t4_ppsh
+
+xmodel,vm_t4_ppsh
+xmodel,wm_t4_ppsh
+
+fx,muzzleflashes/fx_t4_ppsh_muz
+
+sound,t4_ppsh,,all_mp
+
+weapon,mp/t4_ppsh_mp
