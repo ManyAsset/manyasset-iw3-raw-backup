@@ -16,6 +16,8 @@ xanim,vm_t6_m27_sprint_loop
 xanim,vm_t6_m27_sprint_out
 xanim,vm_t6_m27_sprint_in
 
+material,hud_t6_m27
+
 xmodel,wm_t6_m27
 xmodel,vm_t6_m27
 
